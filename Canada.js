@@ -6,7 +6,7 @@ for(var i=0;i<600;i++){
         console.log(y);
     }
     else{
-        console.log("this is last print! i==" + i);
+        console.log("this is the very last print! i==" + i);
         break;
     }
 }
